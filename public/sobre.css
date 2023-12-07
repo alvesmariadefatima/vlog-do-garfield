@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Bowlby+One+SC&family=Inter:wght@400;500&family=Nova+Square&family=Staatliches&display=swap');
+
+h1, p {
+    font-family: "Nova Square", sans-serif;
+    font-size: 30px;
+}
+
+section {
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+a {
+    font-family: 'Nova Square', sans-serif;
+    font-size: 30px;
+}
+
+img {
+    border-radius: 200px;
+    width: 200px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer {
+    margin-top: 100px;
+}

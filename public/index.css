@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Bowlby+One+SC&family=Inter:wght@400;500&family=Nova+Square&family=Staatliches&display=swap');
+
+section {
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.logotipo-vlog-garfield {
+    border-radius: 200px;
+    width: 200px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+h1, p {
+    font-family: 'Nova Square', sans-serif;
+    font-size: 30px;
+    padding: 40px;
+}
+
+a {
+    font-family: 'Nova Square', sans-serif;
+    font-size: 30px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+.carousel-container {
+    width: 67%;
+    margin: auto;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.carousel-slide {
+    display: grid;
+    padding: 20px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 40px;
+    border: 10px solid white;
+}
+
+/* Optional: Add animation for slide transition */
+@keyframes slide {
+    from { transform: translateX(100%); }
+    to { transform: translateX(0); }
+}
+
+.carousel-slide.active {
+    display: block;
+    animation: slide 1s ease-in-out;
+}

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Bowlby+One+SC&family=Inter:wght@400;500&family=Nova+Square&family=Staatliches&display=swap');
+
+h1, p {
+    font-family: "Nova Square", sans-serif;
+    font-size: 20px;
+}
+
+a {
+    font-family: 'Nova Square', sans-serif;
+    font-size: 30px;
+}
+
+.logotipo-vlog-garfield {
+    border-radius: 200px;
+    width: 200px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+section {
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+footer {
+    margin-top: 70px;
+}
