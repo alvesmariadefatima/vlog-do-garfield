@@ -16,5 +16,7 @@ Como contribuir:
 Se você é fã do Garfield e quer contribuir para o Vlog, fique à vontade para sugerir novos temas, corrigir bugs ou até mesmo adicionar suas próprias piadas inspiradas no gato mais preguiçoso e adorável dos quadrinhos.
 
 Junte-se a nós nesta jornada de humor felino! 😺
+
+<p align="center"><b>Link: </b><a href="https://vlog-do-garfield.vercel.app/">Vlog do Garfield 🐈❤🐾</a></p>
 <hr>
 <p align="center">2023 - Maria de Fátima Nunes Alves</p>
