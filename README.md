@@ -10,9 +10,14 @@ O Vlog do Garfield é um site divertido e descontraído que dá voz ao famoso fe
 
 **Códigos Fonte:** Explore os bastidores do Vlog do Garfield e veja como transformamos os pensamentos preguiçosos do gato em código.
 <br>
+<br>
 **Recursos Gráficos:** Imagens engraçadas, ícones e ilustrações que dão vida ao mundo do Garfield.
-Conteúdo Textual: As pérolas de sabedoria e humor escritas por Garfield, organizadas e prontas para serem compartilhadas.
-Como contribuir:
+<br>
+<br>
+**Conteúdo Textual:** As pérolas de sabedoria e humor escritas por Garfield, organizadas e prontas para serem compartilhadas.
+<br>
+<br>
+**Como contribuir:**
 Se você é fã do Garfield e quer contribuir para o Vlog, fique à vontade para sugerir novos temas, corrigir bugs ou até mesmo adicionar suas próprias piadas inspiradas no gato mais preguiçoso e adorável dos quadrinhos.
 
 Junte-se a nós nesta jornada de humor felino! 😺
